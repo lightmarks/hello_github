@@ -1,6 +1,2 @@
 Hello GitHub and Atom!!
-<<<<<<< HEAD
-This is the second line.
-=======
 This is the 2nd line.
->>>>>>> 80e6a0ac58c62c96508c6c6b908fa1e280f77d01
